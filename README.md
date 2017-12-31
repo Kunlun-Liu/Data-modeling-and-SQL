@@ -1,2 +1,2 @@
 # Data-modeling-and-SQL
-Creating relational database
+Created relational database and quired data from it
